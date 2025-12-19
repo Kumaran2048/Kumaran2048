@@ -1,6 +1,4 @@
 # 💫 About Me:
-<h1>💫 About Me</h1>
-
 <p>🌱 <b>I’m currently learning & practicing</b></p>
 
 <p>💻 Data Structures & Algorithms using Java</p>
